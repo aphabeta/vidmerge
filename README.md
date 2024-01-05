@@ -15,7 +15,7 @@
 An Telegram Bot By [Yash Oswal](https://t.me/yashoswalyo) To Merge multiple Videos in Telegram into single video.
 
 ```diff
-- WHAT'S NEW:
+- WHAT'S NEW: hello
 + Option to add subtitles to telegram video
 #  1. First send video.
 #  2. Then send subtitle in .srt format only (you can send as many subs as you want).
